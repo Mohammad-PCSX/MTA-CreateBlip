@@ -1,1 +1,3 @@
-# MTA-CreateBlip
+- 👋 Hi, I’m @Mohammad-PCSX
+- 👀 Scripting MTA
+- 📫 Create Blip
